@@ -1,0 +1,3 @@
+[submodule "ideas-tools-profiler"]
+	path = ideas-tools-profiler
+	url = https://github.com/inscopix/ideas-tools-profiler.git
